@@ -140,8 +140,8 @@
       </execution>
    </executions>
    <configuration>
-      <serverId>Nexus2</serverId>
-      <nexusUrl>http://localhost:6061/nexus</nexusUrl>
+      <serverId>Nexus</serverId>
+      <nexusUrl>http://localhost:8081/nexus</nexusUrl>
       <skipStaging>true</skipStaging>
    </configuration>
 </plugin>    
